@@ -7,6 +7,8 @@ This github page is dedicated to panel issues, if you have any issues please use
 
 Just a reminder to never post sensitive information. If you need to report a bug that contains sensitive information, please contact any staff member privately in our [Discord](http://discord.gg/bVT8y86).
 
+If you don't have a bug to report, but you do have a question, please also reach out on [Discord](http://discord.gg/bVT8y86) instead.
+
 ## Big known issues
 
 | Issue | Description |
